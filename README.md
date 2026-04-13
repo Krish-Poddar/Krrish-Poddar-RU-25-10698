@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=F70000&center=true&vCenter=true&width=600&lines=JAVA+PROJECT;Digital+Wallet+Payment+System;Encapsulation+%7C+Static+Members+%7C+Exceptions" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=F70000&center=true&vCenter=true&width=600&lines=JAVA+PROJECT;Digital+Wallet+Payment+System;Krish+%7C+Poddar" />
 </h1>
 
 ---
