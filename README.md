@@ -22,9 +22,9 @@ A secure wallet platform built with *Java OOP concepts*:
 ---
 
 ## 📊 Project Stats
-![Repo Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=redical)
+![Repo Stats](https://github-readme-stats.vercel.app/api?username=Krish-Poddar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Poddar&layout=compact&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krish-Poddar&theme=redical)
 
 ---
 
